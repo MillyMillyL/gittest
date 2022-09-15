@@ -16,5 +16,10 @@ javascript & api call
 
 bug fix
 
-
 --------change from other developer----------
+
+user purchase
+
+user pay
+
+dilevery
